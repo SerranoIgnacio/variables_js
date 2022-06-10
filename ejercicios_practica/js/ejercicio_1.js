@@ -9,12 +9,12 @@
 
 // 1. Corrija los errores presentes en el código:
 
-/* ELIMINE ESTE COMENTARIO
-const nom bre = " otros";
-const accion "Programamos";
-const negacion = ", no ";
-para " para "
-quien = "nosotros mismos"
 
-console . log(accion + para + nombre + negacion + para + quien);
-*/
+const NOMBRE = " otros";
+const ACCION = "Programamos";
+const NAVEGACION = " no";
+let para =" para"
+let quien = " nosotros mismos"
+
+console.log( ACCION + para + NOMBRE + NAVEGACION + para + quien);
+

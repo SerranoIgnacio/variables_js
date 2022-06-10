@@ -12,10 +12,10 @@
 //    proponga una alternativa para que se imprima 1 en consola, 
 //    manteniendo las operaciones de división.
 
-/* ELIMINE ESTE COMENTARIO
-let numerador = 25;
-let denominador = 25 - numerador;
-let resultado = numerador/denominador;
 
-console.log(resultado/resultado);
-*/
+let numerador1 = 25;
+let denominador1 = 25 - numerador1;
+let resultado = numerador1 / denominador1;
+
+console.log(resultado);
+
